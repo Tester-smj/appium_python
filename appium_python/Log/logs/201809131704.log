@@ -1,0 +1,30 @@
+2018-09-13 17:04:02,279 -INFO - *****正在启动设备*****
+2018-09-13 17:04:10,775 -INFO - *****设备已经启动*****
+2018-09-13 17:04:10,775 -INFO - *****等待启动页加载*****
+2018-09-13 17:04:18,776 -INFO - ******初始化driver******
+2018-09-13 17:04:18,776 -INFO - 开始查找 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 17:04:20,606 -INFO - 找到了 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 17:04:20,934 -INFO - ******初始化driver******
+2018-09-13 17:04:20,934 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_phone
+2018-09-13 17:04:21,475 -INFO - 找到了 id 元素 com.carsland.asd:id/login_phone
+2018-09-13 17:04:26,559 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_password
+2018-09-13 17:04:27,091 -INFO - 找到了 id 元素 com.carsland.asd:id/login_password
+2018-09-13 17:04:32,213 -INFO - 开始查找 id 元素 com.carsland.asd:id/login
+2018-09-13 17:04:32,753 -INFO - 找到了 id 元素 com.carsland.asd:id/login
+2018-09-13 17:04:35,033 -INFO - ******初始化driver******
+2018-09-13 17:04:35,033 -INFO - *****测试结束*****
+2018-09-13 17:04:35,033 -INFO - *****正在启动设备*****
+2018-09-13 17:04:45,507 -INFO - *****设备已经启动*****
+2018-09-13 17:04:45,507 -INFO - *****等待启动页加载*****
+2018-09-13 17:04:53,508 -INFO - ******初始化driver******
+2018-09-13 17:04:53,508 -INFO - 开始查找 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 17:04:55,094 -INFO - 找到了 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 17:04:55,451 -INFO - ******初始化driver******
+2018-09-13 17:04:55,451 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_phone
+2018-09-13 17:04:55,988 -INFO - 找到了 id 元素 com.carsland.asd:id/login_phone
+2018-09-13 17:05:01,860 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_password
+2018-09-13 17:05:02,386 -INFO - 找到了 id 元素 com.carsland.asd:id/login_password
+2018-09-13 17:05:07,456 -INFO - 开始查找 id 元素 com.carsland.asd:id/login
+2018-09-13 17:05:08,027 -INFO - 找到了 id 元素 com.carsland.asd:id/login
+2018-09-13 17:05:10,348 -INFO - ******初始化driver******
+2018-09-13 17:05:10,348 -INFO - *****测试结束*****

@@ -1,0 +1,37 @@
+2018-09-18 16:54:06,292 -INFO - *****正在启动设备*****
+2018-09-18 16:54:19,672 -INFO - *****设备已经启动*****
+2018-09-18 16:54:19,672 -INFO - *****等待启动页加载*****
+2018-09-18 16:54:27,673 -INFO - 开始查找 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:54:28,865 -INFO - 找到了 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:54:29,701 -INFO - 点击了 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:54:29,701 -INFO - ('id', 'com.carsland.asd:id/login_phone')正在输入18707148477
+2018-09-18 16:54:29,701 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_phone
+2018-09-18 16:54:30,242 -INFO - 找到了 id 元素 com.carsland.asd:id/login_phone
+2018-09-18 16:54:35,219 -WARNING - ('id', 'com.carsland.asd:id/login_phone') 已经输入18707148477
+2018-09-18 16:54:35,219 -INFO - ('id', 'com.carsland.asd:id/login_password')正在输入111111
+2018-09-18 16:54:35,219 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_password
+2018-09-18 16:54:35,767 -INFO - 找到了 id 元素 com.carsland.asd:id/login_password
+2018-09-18 16:54:41,133 -WARNING - ('id', 'com.carsland.asd:id/login_password') 已经输入111111
+2018-09-18 16:54:41,134 -INFO - 开始查找 id 元素 com.carsland.asd:id/login
+2018-09-18 16:54:41,690 -INFO - 找到了 id 元素 com.carsland.asd:id/login
+2018-09-18 16:54:42,004 -INFO - 点击了 id 元素 com.carsland.asd:id/login
+2018-09-18 16:54:44,005 -INFO - *****测试结束*****
+2018-09-18 16:54:44,005 -INFO - *****正在启动设备*****
+2018-09-18 16:54:57,345 -INFO - *****设备已经启动*****
+2018-09-18 16:54:57,345 -INFO - *****等待启动页加载*****
+2018-09-18 16:55:05,345 -INFO - 开始查找 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:55:06,298 -INFO - 找到了 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:55:06,878 -INFO - 点击了 id 元素 com.carsland.asd:id/before_phone
+2018-09-18 16:55:06,878 -INFO - ('id', 'com.carsland.asd:id/login_phone')正在输入18707148477
+2018-09-18 16:55:06,879 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_phone
+2018-09-18 16:55:07,407 -INFO - 找到了 id 元素 com.carsland.asd:id/login_phone
+2018-09-18 16:55:12,580 -WARNING - ('id', 'com.carsland.asd:id/login_phone') 已经输入18707148477
+2018-09-18 16:55:12,581 -INFO - ('id', 'com.carsland.asd:id/login_password')正在输入111110
+2018-09-18 16:55:12,581 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_password
+2018-09-18 16:55:13,425 -INFO - 找到了 id 元素 com.carsland.asd:id/login_password
+2018-09-18 16:55:18,347 -WARNING - ('id', 'com.carsland.asd:id/login_password') 已经输入111110
+2018-09-18 16:55:18,347 -INFO - 开始查找 id 元素 com.carsland.asd:id/login
+2018-09-18 16:55:18,876 -INFO - 找到了 id 元素 com.carsland.asd:id/login
+2018-09-18 16:55:19,689 -INFO - 点击了 id 元素 com.carsland.asd:id/login
+2018-09-18 16:55:21,691 -INFO - *****测试结束*****
+2018-09-18 16:55:21,718 -INFO - ./TestReport\2018-09-18-1654Test_Result.html

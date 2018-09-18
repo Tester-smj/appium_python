@@ -1,0 +1,14 @@
+2018-09-13 16:14:29,711 -INFO - -----开始启动设备------
+2018-09-13 16:14:38,286 -INFO - -----已经启动设备------
+2018-09-13 16:14:38,286 -INFO - -----初始化driver-----
+2018-09-13 16:14:38,286 -INFO - 开始查找 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 16:14:49,350 -INFO - 找到了 id 元素 com.carsland.asd:id/before_phone
+2018-09-13 16:14:49,776 -INFO - -----初始化driver-----
+2018-09-13 16:14:49,777 -INFO - 开始查找 id 元素 com.carsland.asd:id/ll_area_code
+2018-09-13 16:14:50,322 -INFO - 找到了 id 元素 com.carsland.asd:id/ll_area_code
+2018-09-13 16:15:10,222 -INFO - 开始查找 id 元素 com.carsland.asd:id/login_password
+2018-09-13 16:15:14,149 -INFO - 找到了 id 元素 com.carsland.asd:id/login_password
+2018-09-13 16:15:18,978 -INFO - -----初始化driver-----
+2018-09-13 16:15:18,979 -INFO - -----准备关闭app-----
+2018-09-13 16:15:20,752 -INFO - -----已经关闭app-----
+2018-09-13 16:15:20,753 -INFO - -----测试结束------
