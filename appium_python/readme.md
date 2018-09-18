@@ -1,5 +1,4 @@
 # appium_python
-python3.6+appium+BeautifulReport测试框架
 
 本框架采用的是page-obejct模式，可以实现测试日志记录及测试报告的生成，采用的是BeautifulReport测试报告模版
 感谢mock哥：https://github.com/TesterlifeRaymond/BeautifulReport
